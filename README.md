@@ -13,9 +13,12 @@
 
 <div align="center">
   
+ ### <span style="background-color: #dcffe4"> 하루하루 발전해나가는 프로그래머 박상빈입니다.</span>
+  
+  <br> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Julee&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%22Believe+that+tomorrow+will+be+better+than+today.%22;-+kristen+Butler)](https://git.io/typing-svg)
   
-### <span style="background-color: #dcffe4"> <br> <br> 하루하루 발전해나가는 프로그래머 박상빈입니다.</span>
+
 
 <br>
     
