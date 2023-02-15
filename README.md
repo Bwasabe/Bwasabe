@@ -8,7 +8,7 @@
   
 </div> 
 
-<span style="background-color: #dcffe4"> ## "Believe that tomorrow will be better than today. - Kristen Butler" </span>
+## "Believe that tomorrow will be better than today. - Kristen Butler"
 
 
 > ### Github 관련 통계
