@@ -13,13 +13,35 @@
 
 <div align="center">
   
- ### <span style="background-color: #dcffe4"> 하루하루 발전해나가는 프로그래머 박상빈입니다.</span>
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Julee&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%22Believe+that+tomorrow+will+be+better+than+today.%22;-+kristen+Butler)](https://git.io/typing-svg)
   <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Julee&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%22Believe+that+tomorrow+will+be+better+than+today.%22;-+kristen+Butler)](https://git.io/typing-svg)
+ ### <span style="background-color: #dcffe4"> 하루하루 발전해나가는 프로그래머 박상빈입니다.</span>
+  <br>
+  
+  <div align=center><h1>👨‍🎓 프로필 관련 링크 👨‍🎓</h1></div>
+  
+  <a href="https://github.com/Bwasabe"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 
+  <div align=center><h1>📚 주로 사용하는 언어 📚</h1></div>
+
+<div align=center> 
+  
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+  
+  <div align=center><h1>🔧 자주 사용하는 툴 🔧</h1></div>
+  
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <br>
+  
+  <div align=center><h1>📖 조금 해봤던 것들 📖</h1></div>
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+  
+  
 
 <br>
     
