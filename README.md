@@ -10,9 +10,7 @@
 
 <div align="center">
   
-# "Believe that tomorrow will be better than today."<br> -Kristen Butler <br> 
-## 하루하루 **발전**해나가는 프로그래머 박상빈입니다.
-
+# "Believe that tomorrow will be better than today."<br> -Kristen Butler <br> <br> 하루하루 발전해나가는 프로그래머 박상빈입니다.
 
 <br>  
   
