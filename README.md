@@ -49,6 +49,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Bwasabe)](https://solved.ac/Bwasabe)
   
 </div>
-  
+ * * * 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:a0e99a,100:caf881&height=200&section=footer)
