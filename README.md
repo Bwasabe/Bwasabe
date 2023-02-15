@@ -9,13 +9,13 @@
 </div> 
 
 > ### 자기소개
-----
+* * *
 
 <div align="center">
   
 ### **"Believe that tomorrow will be better than today."<br> -Kristen Butler <br> <br> 하루하루 발전해나가는 프로그래머 박상빈입니다.**
 
-----  
+* * *  
 
 <br>
     
@@ -24,7 +24,7 @@
 
 
 > ### Github 관련 통계
-----
+* * *
 <div align="center">
   
   
@@ -43,7 +43,7 @@
 </div>
 
 > ### 알고리즘
-----
+* * *
 
 <div align="center">
   
@@ -52,6 +52,6 @@
   
 </div>
   
-----
+* * *
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:a0e99a,100:caf881&height=200&section=footer)
