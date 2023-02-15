@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="right">
 <!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
   
  
@@ -78,3 +78,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:c1fdc9,100:57f5a1&height=200&section=footer)
