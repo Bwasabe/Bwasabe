@@ -20,7 +20,7 @@
 > ### 알고리즘
 ----
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={Bwasabe})](https://solved.ac/{Bwasabe})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Bwasabe)](https://solved.ac/Bwasabe)
 ----
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:a0e99a,100:caf881&height=200&section=footer)
