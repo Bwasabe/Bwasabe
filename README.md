@@ -4,8 +4,7 @@
   
  
 
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GameClient%20Developer&fontSize=90)
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=GameClient%20Developer&fontSize=60)
 </div> 
 
 
