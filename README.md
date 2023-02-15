@@ -10,7 +10,7 @@
 
 <div align="center">
 <p>
-<font size="30pt"  "Believe that tomorrow will be better than today."
+<font size="30pt"> "Believe that tomorrow will be better than today."
   - Kristen Butler
   <br> 
   </font>
