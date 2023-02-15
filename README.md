@@ -10,9 +10,11 @@
 
 <div align="center">
 <p>
-# "Believe that tomorrow will be better than today."
+<font size="30pt"  "Believe that tomorrow will be better than today."
   - Kristen Butler
-  <br> </p>
+  <br> 
+  </font>
+</p>
 
   <br>
 ### 어제보다 더 나은 내일을 만들기 위해 하루하루 발전해나가는 프로그래머 박상빈입니다.
