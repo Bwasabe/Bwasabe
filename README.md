@@ -9,7 +9,7 @@
 
 <div align="center" style="padding:5px" >
   
-  [![Wasabe's github stats](https://github-readme-stats.vercel.app/api?username=Bwasabe)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe)](https://github.com/anuraghazra/github-readme-stats)
+  [![Wasabe's github stats](https://github-readme-stats.vercel.app/api?username=Bwasabe)](https://github.com/anuraghazra/github-readme-stats) [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
   
