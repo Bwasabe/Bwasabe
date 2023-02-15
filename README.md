@@ -13,6 +13,8 @@
 
 <div align="center">
   
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Julee&pause=1000&color=000000&background=F9F9F9&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%22Believe+that+tomorrow+will+be+better+than+today.%22;-+kristen+Butler)](https://git.io/typing-svg)
+  
 ### <span style="background-color: #dcffe4"> "Believe that tomorrow will be better than today."<br> -Kristen Butler <br> <br> 하루하루 발전해나가는 프로그래머 박상빈입니다.</span>
 
 <br>
@@ -36,8 +38,7 @@
   <!--
 <a href="https://opgc.me/#/users/Bwasabe" target="_blank"><img src="https://api.opgc.me/githubs/users/Bwasabe/tag/?theme=dracula" /></a>
 -->
-   <!-- [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe&layout=compact&count_private=true&show_icons=true&locale=kr&title_color=f9f572&text_color=5a9b74&icon_color=88E068&bg_color=0a0f0b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-  
+   <!-- [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe&layout=compact&count_private=true&show_icons=true&locale=kr&title_color=f9f572&text_color=5a9b74&icon_color=88E068&bg_color=0a0f0b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) --> 
 </div>
 
 > ### 알고리즘
