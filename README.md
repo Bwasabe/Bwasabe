@@ -1,4 +1,3 @@
-
 <div align="right">
 <!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
   
@@ -14,11 +13,15 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Julee&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%22Believe+that+tomorrow+will+be+better+than+today.%22;-+kristen+Butler)](https://git.io/typing-svg)
-  <br>
   
  ### <span style="background-color: #dcffe4"> 하루하루 발전해나가는 프로그래머 박상빈입니다.</span>
   <br>
   
+
+----
+
+<br>
+
   <div align=center><h3>👨‍🎓 프로필 관련 링크 👨‍🎓</h3></div>
   
   <a href="https://github.com/Bwasabe"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> <!--![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)--><!--<a href="https://verytokwasabe.tistory.com/"><img src="http://img.shields.io/badge/-TStory-282828?style=for-the-badge&link=https://verytokwasabe.tistory.com/"/></a>-->
