@@ -80,4 +80,4 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:c1fdc9,100:57f5a1&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:a0e99a,100:caf881&height=200&section=footer)
