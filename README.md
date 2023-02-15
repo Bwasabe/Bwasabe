@@ -9,7 +9,7 @@
 
 <div align="center" style="padding:5px" >
   
-  [![Wasabe's github stats](https://github-readme-stats.vercel.app/api?username=Bwasabe&count_private=true&show_icons=true&locale=kr&title_color=66b302&text_color=66b302&icon_color=66b302&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe&layout=compact&count_private=true&show_icons=true&locale=kr&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Wasabe's github stats](https://github-readme-stats.vercel.app/api?username=Bwasabe&count_private=true&show_icons=true&locale=kr&title_color=66b302&text_color=66b302&icon_color=66b302&bg_color=66b302&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe&layout=compact&count_private=true&show_icons=true&locale=kr&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   
   
