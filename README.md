@@ -7,7 +7,8 @@
   ![header](https://capsule-render.vercel.app/api?type=slice&color=0:caf881,100:a0e99a&height=200&section=header&text=GameClient%20Developer&rotate=13&fontAlign=65&fontAlignY=35&fontSize=48&fontColor=0f7d16&animation=fadeIn)
   
 </div> 
-| # <span style="background-color: #dcffe4">"Believe that tomorrow will be better than today. - Kristen Butler"
+
+<span style="background-color: #dcffe4"> # "Believe that tomorrow will be better than today. - Kristen Butler" </span>
 
 
 > ### Github 관련 통계
