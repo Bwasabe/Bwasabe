@@ -21,11 +21,14 @@
   
 </div>
 
-<div align="center">
 > ### 알고리즘
 ----
+
+<div align="center">
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Bwasabe)](https://solved.ac/Bwasabe)
+  
 </div>
   
 ----
