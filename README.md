@@ -9,9 +9,9 @@
 
 <div align="left">
   
-  [![Wasabe's github stats](https://github-readme-stats.vercel.app/api?username=Bwasabe)](https://github.com/anuraghazra/github-readme-stats)
+  [![Wasabe's github stats](https://github-readme-stats.vercel.app/api?username=Bwasabe)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe)](https://github.com/anuraghazra/github-readme-stats)
+  
   
 </div>
 
