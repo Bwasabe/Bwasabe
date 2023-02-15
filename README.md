@@ -21,7 +21,7 @@
   
   <div align=center><h1>👨‍🎓 프로필 관련 링크 👨‍🎓</h1></div>
   
-  <a href="https://github.com/Bwasabe"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  <a href="https://github.com/Bwasabe"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> <!--![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)--><!--<a href="https://verytokwasabe.tistory.com/"><img src="http://img.shields.io/badge/-TStory-282828?style=for-the-badge&link=https://verytokwasabe.tistory.com/"/></a>-->
   
 
   <div align=center><h1>📚 주로 사용하는 언어 📚</h1></div>
