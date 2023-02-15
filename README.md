@@ -13,7 +13,7 @@
   
    [![Wasabe's github stats](https://github-readme-stats.vercel.app/api?username=Bwasabe&count_private=true&show_icons=true&locale=kr&title_color=f9f572&text_color=5a9b74&icon_color=88E068&bg_color=0a0f0b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bwasabe&layout=compact&count_private=true&show_icons=true&locale=kr&title_color=f9f572&text_color=5a9b74&icon_color=88E068&bg_color=0a0f0b&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
- [![GitHub Streak](https://streak-stats.demolab.com?user=Bwasabe&hide_border=true&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j&background=0A0F0B&stroke=F9F572&ring=F96000&fire=F93D08&currStreakNum=F9F572&sideNums=88E068&currStreakLabel=F9F572&sideLabels=75C996&dates=3B654C)](https://git.io/streak-stats) <a href="https://opgc.me/#/users/Bwasabe" target="_blank"><img src="https://api.opgc.me/githubs/users/Bwasabe/tag/?theme=basic" /></a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Bwasabe&hide_border=true&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j&background=0A0F0B&stroke=F9F572&ring=F96000&fire=F93D08&currStreakNum=F9F572&sideNums=88E068&currStreakLabel=F9F572&sideLabels=75C996&dates=3B654C)](https://git.io/streak-stats) <a href="https://opgc.me/#/users/Bwasabe" target="_blank"><img src="https://api.opgc.me/githubs/users/Bwasabe/tag/?theme=dracula" /></a>
   
 </div>
 
