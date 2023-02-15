@@ -50,6 +50,5 @@
   
 </div>
   
-* * *
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:a0e99a,100:caf881&height=200&section=footer)
