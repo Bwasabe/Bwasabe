@@ -13,7 +13,7 @@
 
 <div align="center">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Julee&pause=1000&color=000000&background=F9F9F900&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%22Believe+that+tomorrow+will+be+better+than+today.%22;-+kristen+Butler)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Julee&pause=1000&color=FFFFFF&background=000000C0&center=true&vCenter=true&multiline=true&width=435&height=80&lines=%22Believe+that+tomorrow+will+be+better+than+today.%22;-+kristen+Butler)](https://git.io/typing-svg)
   
 ### <span style="background-color: #dcffe4"> "Believe that tomorrow will be better than today."<br> -Kristen Butler <br> <br> 하루하루 발전해나가는 프로그래머 박상빈입니다.</span>
 
