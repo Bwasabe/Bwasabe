@@ -76,7 +76,7 @@
 <div align="center">
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Bwasabe)](https://solved.ac/Bwasabe)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Bwasabe)](https://solved.ac/Bwasabe) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=Bwasabe&theme=warm)
   
 </div>
 
