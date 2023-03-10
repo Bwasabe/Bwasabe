@@ -1,5 +1,5 @@
 <div align="right">
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=0:caf881,100:a0e99a&height=200&section=header&text=GameClient%20Developer&rotate=13&fontAlign=65&fontAlignY=35&fontSize=48&fontColor=0f7d16&animation=fadeIn)
+
   
 </div> 
 
